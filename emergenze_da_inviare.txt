@@ -1,0 +1,14 @@
+# Formato: nome_emergenza x y delay
+# delay = tempo in secondi prima dell'invio
+
+Incendio 45 72 0
+Allagamento 12 199 0
+Sommossa 87 150 0
+Incidente_Stradale 145 210 0
+Tsunami 230 45 10
+Ufo 12 299 0
+Tapiro 78 99 0
+Terremoto 250 180 0
+Incendio 33 88 0
+Allagamento 200 150 0
+

@@ -1,0 +1,144 @@
+[1790097949] [conf/env.conf] [FILE_PARSING] Apertura del file di configurazione: conf/env.conf
+[1790097949] [0] [FILE_PARSING] Lettura riga 1: queue=emergenze675676
+[1790097949] [0] [FILE_PARSING] Lettura riga 2: height=300
+[1790097949] [0] [FILE_PARSING] Lettura riga 3: width=400
+[1790097949] [conf/env.conf] [FILE_PARSING] Chiusura del file di configurazione: conf/env.conf
+[1790097949] [11] [EMERGENCY_RECEIVED] Emergenza valida ricevuta: Incendio (45,72)
+[1790097949] [11] [EMERGENCY_STATUS_CHANGE] Stato emergenza Incendio cambiato in: ASSIGNED
+[1790097949] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097949] [13] [EMERGENCY_STATUS_CHANGE] Stato emergenza Sommossa cambiato in: ASSIGNED
+o con successo a emergenza con id 11 (Incendio).
+valida: Incidente_Stradale (145,210) @ 1790097949
+
+[1790097949] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di ti[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097949] [11] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Pompier[1790097949] [13] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Polizia assegnato con successo a emergenza con id 13 (Sommossa).
+[1790097949] [16] [EMERGENCY_STATUS_CHANGE] Stato emergenza Tapiro cambiato in: ASSIGNED
+[1790097949] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097949] [16] [EMERGENCY_STATUS_CHANGE] Stato emergenza Tapiro cambiato in: CANCELED
+ED
+[1790097949] [13] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Polizia assegnato con successo a emergenza con id 13 (Sommossa).
+
+[1790097949] [18] [EMERGENCY_STATUS_CHANGE] Stato emergenza Incendio cambiato in: ASSIGNED
+
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Polizia ha cambiato stato in: EN_ROUTE_TO_SCENE
+
+[1790097949] [19] [EMERGENCY_STATUS_CHANGE] Stato emergenza Allagamento cambiato in: ASSIGNED
+[1790097949] [13] [EMERGENCY_ASSIGNED] gemello digitale con id: 3 di tipo Polizia assegnato con successo a emergenza con id 13 (Sommossa).
+
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097949] [13] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Ambulanza assegnato con successo a emergenza con id 13 (Sommossa).
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097949] [13] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Ambulanza assegnato con successo a emergenza con id 13 (Sommossa).
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: ON_SCENE
+E_TO_SCENE
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: ON_SCENE
+n id 11 (Incendio).
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Polizia ha cambiato stato in: ON_SCENE
+E_TO_SCENE
+[1790097949] [11] [EMERGENCY_ASSIGNED] gemello digitale con id: 3 di tipo Ambulanza assegnato con successo a emergenza con id 11 (Incendio).
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097949] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097949] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097949] [13] [EMERGENCY_STATUS_CHANGE] Stato emergenza Sommossa cambiato in: IN_PROGRESS
+ cambiato stato in: ON_SCENE
+[1790097949] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097950] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097950] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097950] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097950] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097950] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 5 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097950] [11] [EMERGENCY_STATUS_CHANGE] Stato emergenza Incendio cambiato in: IN_PROGRESS
+[1790097951] [11] [EMERGENCY_STATUS_CHANGE] Stato emergenza Incendio cambiato in: COMPLETED
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 5 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097951] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097952] [11] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097952] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097952] [19] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Pompieri assegnato con successo a emergenza con id 19 (Allagamento).
+[1790097952] [12] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Pompieri assegnato con successo a emergenza [1790097952] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097952] [19] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Ambulanza assegnato con successo a emergenza con id 19 (Allagamento).
+[1790097952] [12] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Ambulanza assegnato con successo a emergenza con id 12 (Allagamento).
+[1790097952] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097952] [12] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097952] [12] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097952] [12] [EMERGENCY_STATUS_CHANGE] Stato emergenza Allagamento cambiato in: IN_PROGRESS
+[1790097953] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097953] [19] [EMERGENCY_STATUS_CHANGE] Stato emergenza Allagamento cambiato in: IN_PROGRESS
+[1790097957] [13] [EMERGENCY_STATUS_CHANGE] Stato emergenza Sommossa cambiato in: COMPLETED
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: RETURNING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: RETURNING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Polizia ha cambiato stato in: RETURNING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: IDLE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: IDLE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Polizia ha cambiato stato in: IDLE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: IDLE
+ING_TO_BASE
+[1790097957] [13] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: IDLE
+NING_TO_BASE
+[1790097957] [12] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Pompieri assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Pompieri assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 3 di tipo Pompieri assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 4 di tipo Pompieri assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Ambulanza assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Ambulanza assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 3 di tipo Ambulanza assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 1 di tipo Polizia assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: EN_ROUTE_TO_SCENE
+[1790097957] [15] [EMERGENCY_ASSIGNED] gemello digitale con id: 2 di tipo Polizia assegnato con successo a emergenza con id 15 (Ufo).
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: ON_SCENE
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: ON_SCENE
+[1790097957] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: ON_SCENE
+[1790097958] [19] [EMERGENCY_STATUS_CHANGE] Stato emergenza Allagamento cambiato in: COMPLETED
+[1790097958] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097958] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097958] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097958] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097958] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097958] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097958] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: ON_SCENE
+[1790097958] [15] [EMERGENCY_STATUS_CHANGE] Stato emergenza Ufo cambiato in: IN_PROGRESS
+[1790097959] [20] [EMERGENCY_RECEIVED] Emergenza valida ricevuta: Tsunami (230,45)
+[1790097959] [20] [EMERGENCY_STATUS_CHANGE] Stato emergenza Tsunami cambiato in: ASSIGNED
+[1790097959] [19] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097959] [18] [EMERGENCY_TIMEOUT] L'emergenza con id 18 ha superato il tempo massimo di attesa e viene annullata. Causa: Mancanza risorse, impossibile gestire entro il tempo limite
+[1790097971] [15] [EMERGENCY_STATUS_CHANGE] Stato emergenza Ufo cambiato in: COMPLETED
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: RETURNING_TO_BASE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Ambulanza ha cambiato stato in: IDLE
+ausa: Mancanza risorse, impossibile gestire entro il tempo limite
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Ambulanza ha cambiato stato in: IDLE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Polizia ha cambiato stato in: IDLE
+[1790097971] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Polizia ha cambiato stato in: IDLE
+[1790097972] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 1 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097972] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 2 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097972] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 3 di tipo Pompieri ha cambiato stato in: IDLE
+[1790097972] [15] [DIGITAL_TWIN_STATUS_CHANGE] Gemello digitale con id: 4 di tipo Pompieri ha cambiato stato in: IDLE

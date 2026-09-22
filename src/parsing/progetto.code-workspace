@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../File"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"structures.h": "c",
+			"parse_rescuers.h": "c",
+			"logger.h": "c",
+			"parse_emergency_types.h": "c"
+		}
+	}
+}

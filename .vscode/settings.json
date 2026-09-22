@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "structures.h": "c",
+        "parse_rescuers.h": "c",
+        "logger.h": "c",
+        "digital_twins.h": "c",
+        "parse_env.h": "c",
+        "typeinfo": "c",
+        "fcntl.h": "c",
+        "parse_emergency_types.h": "c"
+    }
+}
